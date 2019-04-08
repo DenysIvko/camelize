@@ -4,7 +4,7 @@
     "description": "recursively transform key strings to camel-case",
     "main": "index.js",
     "devDependencies": {
-        "tape": "~2.3.2"
+        "tape": "4.10.1"
     },
     "scripts": {
         "test": "tape test/*.js"
