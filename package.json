@@ -17,6 +17,8 @@
     "keywords": [
         "camel-case",
         "json",
+        "http",
+        "response",
         "transform"
     ],
     "author": {
