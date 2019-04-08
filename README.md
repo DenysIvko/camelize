@@ -2,9 +2,9 @@
 
 recursively transform key strings to camel-case
 
-[![build status](https://secure.travis-ci.org/substack/camelize.png)](http://travis-ci.org/substack/camelize)
+[![build status](https://secure.travis-ci.org/DenysIvko/camelize2.png)](http://travis-ci.org/DenysIvko/camelize2)
 
-[![browser support](https://ci.testling.com/substack/camelize.png)](http://ci.testling.com/substack/camelize)
+[![browser support](https://ci.testling.com/DenysIvko/camelize2.png)](http://ci.testling.com/DenysIvko/camelize2)
 
 # example
 
