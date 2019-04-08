@@ -1,5 +1,5 @@
 {
-    "name": "camelize",
+    "name": "camelize2",
     "version": "1.0.0",
     "description": "recursively transform key strings to camel-case",
     "main": "index.js",
@@ -11,9 +11,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/substack/camelize.git"
+        "url": "git://github.com/DenysIvko/camelize2.git"
     },
-    "homepage": "https://github.com/substack/camelize",
+    "homepage": "https://github.com/DenysIvko/camelize2",
     "keywords": [
         "camel-case",
         "json",
