@@ -4,8 +4,6 @@ Recursively transform key strings to camel-case
 
 [![build status](https://secure.travis-ci.org/DenysIvko/camelize2.png)](http://travis-ci.org/DenysIvko/camelize2)
 
-[![browser support](https://ci.testling.com/DenysIvko/camelize2.png)](http://ci.testling.com/DenysIvko/camelize2)
-
 ## Why do we need camelize2?
 
 [camelize](https://github.com/substack/camelize) is a great and simple library.
